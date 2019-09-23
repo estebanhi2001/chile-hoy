@@ -12,3 +12,5 @@ template: post
 </video>
 
 El jefe de la unidad de estudios del Instituto, Osvaldo Torres, habló de las distintas temáticas que aborda el informe. De la migración y la decisión de Chile por el Pacto dijo que hoy las fronteras son distintas y que Chile debió sumarse.
+
+****[**Ver informe anual aquí**](https://bibliotecadigital.indh.cl/bitstream/handle/123456789/1173/informe-anual-2018.pdf?sequence=13)****
