@@ -1,0 +1,13 @@
+---
+title: Vídeo | INDH revela temas pendientes tras informe anual de derechos humanos
+subtitle: INDH
+date: 2019-09-23T13:27:59.291Z
+template: post
+---
+<video width="480" height="320" controls="controls">
+
+<source src="http://videosetv.ecn.cl/EMOLTV_V2_20181210182753517_480p.mp4" type="video/mp4">
+
+</video>
+
+El jefe de la unidad de estudios del Instituto, Osvaldo Torres, habló de las distintas temáticas que aborda el informe. De la migración y la decisión de Chile por el Pacto dijo que hoy las fronteras son distintas y que Chile debió sumarse.
