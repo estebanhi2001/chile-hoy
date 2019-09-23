@@ -3,7 +3,7 @@ title: Video | Resumen "La Tortura en Chile"
 subtitle: TVN
 date: 2013-09-03T11:48:53.323Z
 thumb_img_path: /images/hqdefault.jpg
-content_img_path: /images/hqdefault.jpg
+content_img_path: ''
 excerpt: >-
   El video habla acerca de algunos metodos de tortura usados durante la
   dictadura militar en Chile. Tambien sobre testimonios de personas que fueron
