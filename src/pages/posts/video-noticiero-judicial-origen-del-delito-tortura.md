@@ -6,3 +6,5 @@ thumb_img_path: /images/torture.jpg
 template: post
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nK4yX6xhUlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Este vídeo habla de la tortura a nivel judicial.
