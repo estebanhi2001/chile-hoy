@@ -3,7 +3,7 @@ title: >-
   Sigue pasando: víctimas de torturas en Chile no cuentan con proceso de
   rehabilitación
 subtitle: diarioUchile
-date: 2019-09-23T10:23:52.732Z
+date: 2019-08-02T11:23:52.732Z
 thumb_img_path: /images/portada-1.jpg
 content_img_path: /images/portada-1.jpg
 excerpt: >-
