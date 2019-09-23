@@ -4,8 +4,8 @@ sections:
   - actions: []
     component: Intro
     content: >-
-      Una pequeña mirada por la historia de Chile, específicamente por los
-      derechos humanos de ayer y hoy.
+      Un pequeño grupo de noticias sobre los derechos humanos en Chile para
+      mostrar que en democracia aun se violan.
     section_id: intro
     title: Intro
     type: intro
