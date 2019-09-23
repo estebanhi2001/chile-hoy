@@ -3,8 +3,8 @@ title: Envienos sus casos
 img_path: ''
 menus:
   main:
-    title: ''
-    weight: ''
+    title: Contacto
+    weight: 7
 template: contact
 ---
 
