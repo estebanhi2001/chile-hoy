@@ -2,6 +2,7 @@
 title: Vídeo | INDH revela temas pendientes tras informe anual de derechos humanos
 subtitle: INDH
 date: 2019-09-23T13:27:59.291Z
+thumb_img_path: /images/video.png
 template: post
 ---
 <video width="480" height="320" controls="controls">
