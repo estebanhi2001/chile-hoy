@@ -1,7 +1,7 @@
 ---
 title: 'Video | Noticiero Judicial: Origen del Delito - Tortura'
 subtitle: Poder Judicial Chile
-date: 2019-09-23T13:09:44.955Z
+date: 2017-08-10T14:09:44.955Z
 thumb_img_path: /images/torture.jpg
 template: post
 ---
