@@ -1,5 +1,9 @@
 ---
 title: Derechos Humanos
+menus:
+  main:
+    identifier: '2'
+    title: Derechos Humanos
 template: page
 ---
 1. Todos los seres humanos nacen libres e iguales.
